@@ -7,7 +7,7 @@
 
  ## |
 
- ## 📑| Licenças
+ ## 📑| Licença
 
  
 ## 👥| Contribuições
