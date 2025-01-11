@@ -1,3 +1,3 @@
 ## Problemas de Análise de Dados
 
-  Nesse projeto de 
+  Nesse projeto de análise
