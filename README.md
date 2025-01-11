@@ -13,7 +13,7 @@
  
 ## 👥| Contribuições
 
-Caso tenha interesse em utilizar esse código para desenvolver um projeto complexo, sinta-se 
+Caso tenha interesse em utilizar esse código para desenvolver um projeto complexo, sinta-se a
 
 
 
