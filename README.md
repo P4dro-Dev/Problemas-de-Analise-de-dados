@@ -13,7 +13,7 @@
  
 ## 👥| Contribuições
 
-Caso tenha interesse em esse
+Caso tenha interesse em esse código
 
 
 
