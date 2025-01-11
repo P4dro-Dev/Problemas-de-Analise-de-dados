@@ -13,7 +13,7 @@
  
 ## 👥| Contribuições
 
-Caso tenha interesse 
+Caso tenha interesse em
 
 
 
