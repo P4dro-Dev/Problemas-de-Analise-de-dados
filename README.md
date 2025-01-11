@@ -4,7 +4,7 @@
 
   ## ⌛| Tempo 
 
-  O tempo
+  O tempo 
 
  ## 🗂️| Estrutura Projeto
  
