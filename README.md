@@ -9,7 +9,7 @@
 
  ## 📑| Licença
 
- Este projeto está licenciada 
+ Este projeto está licenciada MIT
 
  
 ## 👥| Contribuições
