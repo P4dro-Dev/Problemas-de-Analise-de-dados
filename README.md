@@ -9,7 +9,7 @@
 
  ## 📑| Licença
 
- Este projeto 
+ Este projeto está
 
  
 ## 👥| Contribuições
