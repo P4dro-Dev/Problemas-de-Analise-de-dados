@@ -1,2 +1,2 @@
 # Problemas-de-An-lise-de-dados
-No curso de Análise de Dados, ofertado pelo Google + Causeira, foi proposto um desafio de 8 questões. Sendo 2 problemas em Python, e 6 em Ruby. Com questões de Análise de Dados para serem respondidas. Na qual realizei com sucesso. Levando 1:40 minutos para resolução das questões!
+No curso de Análise de Dados, ofertado pelo Google + Causeira, foi proposto um desafio de 8 questões. Sendo 2 problemas em Python, e 6 em Ruby. Com questões de Análise de Dados para serem respondidas. Na qual realizei com sucesso. Levando 1:40 minutos para r
