@@ -19,7 +19,7 @@
         VI.ru
         VII.ru
         VIII.ru
-        IX.r
+        IX.ru
 
 ├── LICENSE
 ```
