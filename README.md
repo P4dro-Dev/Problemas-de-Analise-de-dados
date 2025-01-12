@@ -16,7 +16,7 @@
 ├── ├── III.ru
 |       IV.ru
         V.ru
-        VI.r
+        VI.ru
 ├── LICENSE
 ```
 
