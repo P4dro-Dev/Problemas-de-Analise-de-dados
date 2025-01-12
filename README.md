@@ -21,5 +21,5 @@ Caso tenha interesse em utilizar esse código para desenvolver um projeto comple
 
  📩| E-mail: henrique.pedro62@aluno.ifce.edu.br
 
- 📱| Linkeln: 
+ 📱| Linkeln: https://www.linkedin.com/in/-dev-suporte-profissional-ti-pedro-b2680a302/
   
