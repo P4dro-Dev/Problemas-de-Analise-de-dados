@@ -4,7 +4,7 @@
 
   ## ⌛| Tempo 
 
-  O tempo que 
+  O tempo que levei
 
  ## 🗂️| Estrutura Projeto
  
