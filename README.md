@@ -21,7 +21,7 @@
         VIII.ru
         IX.ru
         X.ru
-Readme
+Readm
 ├── LICENSE
 ```
 
