@@ -21,7 +21,7 @@
         VIII.ru
         IX.ru
         X.ru
-Rea
+Read
 ├── LICENSE
 ```
 
