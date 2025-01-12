@@ -4,7 +4,7 @@
 
   ## ⌛| Tempo 
 
-  O tempo que levei para concluir o
+  O tempo que levei para concluir o pro
 
  ## 🗂️| Estrutura Projeto
  
