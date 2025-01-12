@@ -15,7 +15,7 @@
 │   ├── II.py
 ├── ├── III.ru
 |       IV.ru
-        V.r
+        V.ru
 ├── LICENSE
 ```
 
