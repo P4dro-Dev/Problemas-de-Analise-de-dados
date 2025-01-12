@@ -17,7 +17,7 @@
 |       IV.ru
         V.ru
         VI.ru
-        VII.
+        VII.r
 
 ├── LICENSE
 ```
