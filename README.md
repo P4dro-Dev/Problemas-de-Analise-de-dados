@@ -16,7 +16,7 @@
 ├── ├── III.ru
 ├── ├── IV.ru
 ├── ├── V.ru
-├── ├── VI.ru
+├── ├── VI.ruOrganize a documentação do Análise, de Dados.
 ├── ├── VII.ru
         VIII.ru
         IX.ru
