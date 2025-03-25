@@ -5,7 +5,7 @@
   ## ⌛| Tempo de conclusão do Desafio
 
   O tempo que levei para concluir o projeto, foi de 50 minutos
-
+ 
  ## 🗂️| Estrutura Projeto 
  
 ```
